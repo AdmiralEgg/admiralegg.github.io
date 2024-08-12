@@ -307,10 +307,23 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
       comments: false
       share: false
       related: false
+  
+  - scope:
+      path: ""
+      type: projects
+    values: 
+      layout: single
+      title: "Project Page"
+      excerpt: "Short description of the project."
+      toc: true
+      toc_label: "Contents"
+      toc_icon: fa-solid fa-scroll
+      header:
+        overlay_color: "#000"
+        overlay_filter: "0.5"
 
 # Collections
 collections:
