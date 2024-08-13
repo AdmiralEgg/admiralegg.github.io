@@ -7,4 +7,6 @@ collection: projects
 # https://mmistakes.github.io/minimal-mistakes/docs/layouts/#taxonomy-archives
 entries_layout: grid
 sort_by: title
+author_profile: true
+classes: wide
 ---
