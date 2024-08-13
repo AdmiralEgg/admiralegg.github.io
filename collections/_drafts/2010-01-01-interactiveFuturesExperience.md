@@ -1,8 +1,10 @@
 ---
-title: Systems of Goons
+title: Interactive Futures 2024
 tags:
-    - Systems
+    - Marketing
 categories:
+    - Cosy Builder
     - Goons
+    - Spinning Cube
 ---
 Work in Progress.
