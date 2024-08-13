@@ -5,6 +5,7 @@ categories:
 excerpt: "An AI NPC character applied to a point-and-click puzzle scenario. Solo project for GDG Game Jam 1."
 header:
     overlay_image: /assets/images/spinningCube1.png
+    teaser: /assets/images/spinningCube1.png
 ---
 
 # Summary

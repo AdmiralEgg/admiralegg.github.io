@@ -5,6 +5,7 @@ categories:
 excerpt: "Rapidly configure default Unity packages and rendering with a template."
 header:
     overlay_image: "/assets/images/code.jpg"
+    teaser: "/assets/images/code.jpg"
 ---
 
 # Summary

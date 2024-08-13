@@ -5,6 +5,7 @@ categories:
 excerpt: "A relaxing game about decorating a room."
 header:
     overlay_image: "/assets/images/cbGameplay1.png"
+    teaser: "/assets/images/cbGameplay1.png"
 ---
 
 <figure class="third">

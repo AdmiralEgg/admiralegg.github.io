@@ -5,6 +5,7 @@ categories:
 excerpt: "A wacky, mobile, music making experiment, featuring a cast of British stereotypes."
 header:
     overlay_image: /assets/images/goonsGameplay1.png
+    teaser: /assets/images/goonsGameplay1.png
 ---
 
 <figure class="half">

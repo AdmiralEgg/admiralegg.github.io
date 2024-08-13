@@ -5,6 +5,7 @@ categories:
 excerpt: "A story driven puzzle game set in a medieval environment."
 header:
     overlay_image: /assets/images/echoesGameplay.jpeg
+    teaser: /assets/images/echoesGameplay.jpeg
 ---
 
 <figure class="third">
