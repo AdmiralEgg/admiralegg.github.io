@@ -2,12 +2,10 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Projects"
+  - title: "All Projects"
     url: /projects/
-  - title: "Posts by Subject"
+  - title: "Archive"
     url: /tags/
-  - title: "Posts by Project"
-    url: /categories/
   # Possibly add a Sitemap
   # - title: "Sitemap"
   #   url: /sitemap/
