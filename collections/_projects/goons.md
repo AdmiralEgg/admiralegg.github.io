@@ -15,3 +15,9 @@ header:
 
 # Summary
 Work in Progress.
+
+# Design
+
+# Programming
+
+# Conclusion
