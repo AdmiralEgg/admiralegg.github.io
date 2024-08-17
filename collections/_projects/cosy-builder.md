@@ -2,6 +2,7 @@
 title: Cosy Builder
 categories:
     - Cosy Builder
+project-page-sort-id: 100
 excerpt: "A relaxing game about decorating a room."
 header:
     overlay_image: "/assets/images/cbGameplay1.png"

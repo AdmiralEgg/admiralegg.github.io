@@ -2,10 +2,12 @@
 title: Bushi
 categories:
     - Bushi
+project-page-sort-id: 104
 excerpt: "Battle waves of enemies in feudal Japan, using only the power of typing!"
 header:
     overlay_image: "/assets/images/bushi-gameplay3.png"
     teaser: "/assets/images/bushi-gameplay3.png"
+
 ---
 
 <figure class="half">

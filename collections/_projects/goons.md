@@ -2,6 +2,7 @@
 title: Goons
 categories:
     - Goons
+project-page-sort-id: 101
 excerpt: "A wacky, mobile, music making experiment, featuring a cast of British stereotypes."
 header:
     overlay_image: /assets/images/goonsGameplay1.png

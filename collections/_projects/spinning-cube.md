@@ -2,6 +2,7 @@
 title: Spinning Cube
 categories:
     - Spinning Cube
+project-page-sort-id: 102
 excerpt: "An AI NPC character applied to a point-and-click puzzle scenario. Solo project for GDG Game Jam 1."
 header:
     overlay_image: /assets/images/spinningCube1.png
