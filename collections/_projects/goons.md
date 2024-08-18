@@ -18,7 +18,7 @@ header:
 > Goons is a wacky, mobile, music making experiment, featuring a cast of British stereotypes. 
 [Play It Here](https://admiralegg.itch.io/goons)
 
-Goons was a passion project, intended as a vehicle to explore; game feel, audio and audio engineering, mobile game design and animation.
+Goons was a passion project, intended as a vehicle to explore; game feel, audio engineering, mobile game design, animation, and it was used as an opportunity to make music and sound for a game.
 
 The gameplay is simple; turn on the backing track, then tap the 'Goons' in time with the music to make them say a random word. Create enough 'music', and the crowd will go wild! 
 
