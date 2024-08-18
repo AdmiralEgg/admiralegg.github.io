@@ -33,7 +33,7 @@ For a long writeup of Goons, with design and programming decisions and challenge
 
 [Goons Closedown Report](https://admiralegg.github.io/goons/Goons-ClosedownReport)
 
-## Project Highlights
+# Key Learnings
 - Integrated audio using FMOD, with some advanced features such as triggered events on a beat.
 - Keep it simple! The hand drawn characters and recorded facial motion capture were scrapped it in all favour of simple, abstract shapes.
 - Experimented with AI model generation, and solved the performance issues it caused.
