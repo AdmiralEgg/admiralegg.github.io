@@ -35,7 +35,7 @@ In the most recent version of Cosy Builder, the first-person camera and photo mo
 # Design & Programming
 For a long writeup on Cosy Builder, please read the article below.
 
-[Goons Closedown Report](https://admiralegg.github.io/goons/CosyBuilder-ClosedownReport)
+[Cosy Builder Closedown Report](https://admiralegg.github.io/cosy%20builder/CosyBuilder-ClosedownReport/)
 
 # Key Learnings
 - Working with physics and lighting in Unity.
