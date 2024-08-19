@@ -85,8 +85,8 @@ This system was designed and built in a couple of days at the end of the project
 
 If I were to redesign, I'd focus on making the system easier to understand and tweak for artists and level designers. I'd expose more parameters on the lights themselves, e.g. 'Target Intensity' and 'Target Colour', I'd implement more debugging options, to allow the target state to be changed to in-editor. Finally, I'd allow artists to author their own named target states. 
 
-## System: Mirror Staff
-This system took a blueprints our programmer had worked on, and refined it to meet the design requirements.
+## Mirror Staff Puzzle Mechanic
+This mechanic took a blueprint our programmer had worked on, and refined it to meet the design requirements.
 
 In the design, the player would push a 'rod', perpendicular to the vertical staff, to rotate it. The staff could rotate 360 degrees, but had a set list of degree values it would 'lock' into.
 

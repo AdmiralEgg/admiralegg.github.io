@@ -7,7 +7,9 @@ tags:
 excerpt: Closedown Report for Goons
 categories:
     - Goons
+
 toc: True
+toc_sticky: True
 ---
 *Written in February 2024, and published in August 2024*
 

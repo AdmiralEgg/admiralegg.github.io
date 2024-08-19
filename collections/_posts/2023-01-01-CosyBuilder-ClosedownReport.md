@@ -7,7 +7,9 @@ tags:
 excerpt: Closedown Report for Cosy Builder
 categories:
     - Cosy Builder
+
 toc: True
+toc_sticky: True
 ---
 *Written in September 2023, and published in August 2024.*
 
