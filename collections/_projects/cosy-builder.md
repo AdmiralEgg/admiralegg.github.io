@@ -3,7 +3,7 @@ title: Cosy Builder
 categories:
     - Cosy Builder
 project-page-sort-id: 100
-excerpt: "A simple, relaxing game about decorating a room."
+excerpt: "A simple, relaxing game about decorating a room. <i>Playable on Itch.io!</i>"
 header:
     overlay_image: "/assets/images/cbGameplay1.png"
     teaser: "/assets/images/cbGameplay1.png"

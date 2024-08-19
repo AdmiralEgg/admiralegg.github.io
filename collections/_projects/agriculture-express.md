@@ -3,7 +3,7 @@ title: Agriculture Express
 categories:
     - Agriculture Express
 project-page-sort-id: 105
-excerpt: "A casual, idle farming game, set on a train! Team project for Ludum Dare 52"
+excerpt: "A casual, idle farming game, set on a train! Team project for Ludum Dare 52. <i>Playable on Itch.io!</i>"
 header:
     overlay_image: "/assets/images/agExpGameplay.jpg"
     teaser: "/assets/images/agExpGameplay.jpg"

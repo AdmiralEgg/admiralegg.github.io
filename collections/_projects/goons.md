@@ -3,7 +3,7 @@ title: Goons
 categories:
     - Goons
 project-page-sort-id: 101
-excerpt: "A wacky, mobile, music making experiment, featuring a cast of British stereotypes."
+excerpt: "A wacky, mobile, music making experiment, featuring a cast of British stereotypes. <i>Playable on Itch.io!</i>"
 header:
     overlay_image: /assets/images/goonsGameplay1.png
     teaser: /assets/images/goonsTeaser.png

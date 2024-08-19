@@ -3,7 +3,7 @@ title: Echoes of the Past
 categories:
     - Echoes of the Past
 project-page-sort-id: 99
-excerpt: "A story driven puzzle game set in a medieval environment."
+excerpt: "A story driven puzzle game set in a medieval environment. <i>Playable on Itch.io!</i>"
 header:
     overlay_image: /assets/images/echoesGameplay.jpeg
     teaser: /assets/images/echoesTeaser.jpeg
