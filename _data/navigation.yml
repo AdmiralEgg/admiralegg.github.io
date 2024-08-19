@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
   - title: "All Projects"
     url: /projects/
+  - title: "About"
+    url: /about/
   - title: "Archive"
     url: /tags/
   # Possibly add a Sitemap
