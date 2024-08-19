@@ -34,7 +34,7 @@ My key deliverable was a design document for the game. Core part of the design i
 - Tonal consistency, through story, sound and animation.
 - Player navigation and goal setting using scene lights.
 
-[Design documentation for Echoes of the Past is published here!](https://admiralegg.github.io/echoes/Echoes-DesignDocument),
+[Design documentation for Echoes of the Past is published here!](https://admiralegg.github.io/echoes/Echoes-DesignDocument)
 
 ## Story
 Below is the full narrative flow for the game. The vertical slice delivered the first story of three, with the ending adjusting based on the choices the player made along the way.
