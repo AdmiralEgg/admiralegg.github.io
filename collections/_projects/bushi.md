@@ -7,7 +7,6 @@ excerpt: "Battle waves of enemies in feudal Japan, using only the power of typin
 header:
     overlay_image: "/assets/images/bushi-gameplay3.png"
     teaser: "/assets/images/bushi-gameplay3.png"
-
 ---
 
 <figure class="half">
@@ -16,7 +15,6 @@ header:
 </figure>
 
 *Bushi was worked on through 2023 and closed down in March 2024.*
-
 *This post was written August 2024.*
 
 # Summary

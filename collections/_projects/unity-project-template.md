@@ -3,24 +3,24 @@ title: Unity Project Template
 categories:
     - Unity Project Template
 project-page-sort-id: 103
-excerpt: "Rapidly configure default Unity packages and rendering with a template. Available on GitHub!"
+excerpt: "Rapidly configure default Unity packages and rendering with a template."
 header:
     overlay_image: "/assets/images/code.jpg"
     teaser: "/assets/images/code.jpg"
 ---
 
-*This project was worked on between March & April in 2024.*
+<p style="text-align: center;">
+    <a href="https://github.com/AdmiralEgg/Unity3DURPProjectTemplate" class="btn btn--primary equal-width">Get the Template!</a>
+    <a href="https://github.com/AdmiralEgg/UnityStandardConfigCreator.u" class="btn btn--primary equal-width">Get the Setup Code!</a>
+</p>
 
+*Project was worked on between March & April in 2024, and still used by me today.*
 *This article was written in August 2024.*
 
 # Summary
 Since starting working in Unity, I've wanted accelerate the setup of new projects.
 
 I've written a few helper scripts that do this, and made them available on GitHub. These scripts are bundled into a Unity Template, and run from the Unity Editor.
-
-[GitHub Repo: Unity 3D URP Project Template](https://github.com/AdmiralEgg/Unity3DURPProjectTemplate)
-
-[GitHub Repo: Project Template Creator](https://github.com/AdmiralEgg/UnityStandardConfigCreator.u)
 
 Included in the Template are some GitHub Action files, which set up builds of Unity on GitHub via GitHub Actions.
 

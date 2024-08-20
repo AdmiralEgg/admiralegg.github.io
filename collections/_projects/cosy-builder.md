@@ -3,7 +3,7 @@ title: Cosy Builder
 categories:
     - Cosy Builder
 project-page-sort-id: 100
-excerpt: "A simple, relaxing game about decorating a room. <i>Playable on Itch.io!</i>"
+excerpt: "A simple, relaxing game about decorating a room."
 header:
     overlay_image: "/assets/images/cbGameplay1.png"
     teaser: "/assets/images/cbGameplay1.png"
@@ -15,9 +15,13 @@ header:
     <a href="/assets/images/cbGameplay2.jpg"><img src="/assets/images/cbGameplay2.jpg"></a>
 </figure>
 
+<p style="text-align: center;">
+    <a href="https://admiralegg.itch.io/cosybuilder" class="btn btn--primary equal-width">Play the Game!</a>
+    <a href="https://github.com/AdmiralEgg/CosyBuilder.u" class="btn btn--primary equal-width">See the Code!</a>
+</p>
+
 # Summary
 > Cosy Builder is a simple, relaxing game about decorating a room.
-[Play It Here](https://admiralegg.itch.io/cosybuilder)
 
 Cosy Builder was my first prototype after taking a career break and deciding to invest my time into making games.
 

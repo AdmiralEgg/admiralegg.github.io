@@ -3,7 +3,7 @@ title: Agriculture Express
 categories:
     - Agriculture Express
 project-page-sort-id: 105
-excerpt: "A casual, idle farming game, set on a train! Team project for Ludum Dare 52. <i>Playable on Itch.io!</i>"
+excerpt: "A casual, idle farming game, set on a train! *A team project for Ludum Dare 52.*"
 header:
     overlay_image: "/assets/images/agExpGameplay.jpg"
     teaser: "/assets/images/agExpGameplay.jpg"
@@ -15,13 +15,15 @@ header:
     <a href="/assets/images/agriExpressGameplay2.png"><img src="/assets/images/agriExpressGameplay2.png"></a>
 </figure>
 
+<p style="text-align: center;">
+    <a href="https://deathbysnail.itch.io/agricultureexpress" class="btn btn--primary equal-width">Play the Game!</a>
+</p>
+
 *Agriculture Express was made for Ludum Dare 52 in January 2023.*
 *This post was written August 2024.*
 
 # Summary
-Agriculture Express is a cosy management game, set on a train.
-
-[Play It Here](https://deathbysnail.itch.io/agricultureexpress)
+> Agriculture Express is a cosy management game, set on a train.
 
 # Design
 This was the first game design I worked on to completion. The design was both overly ambitious, and fundamentally flawed! Regardless, it was a great learning experience.

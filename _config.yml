@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Chris Alexander"
   avatar           : /assets/images/ProfilePicture.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Contact me with the links below." #"Thinking about games."
+  bio              : "Contact me using these links." #"Thinking about games."
   location         : "Warwickshire, England"
   email            :
   links:

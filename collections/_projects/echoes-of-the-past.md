@@ -3,7 +3,7 @@ title: Echoes of the Past
 categories:
     - Echoes of the Past
 project-page-sort-id: 99
-excerpt: "A story driven puzzle game set in a medieval environment. <i>Playable on Itch.io!</i>"
+excerpt: "A story driven puzzle game set in a medieval environment. *A team project for the GDG Bootcamp.*"
 header:
     overlay_image: /assets/images/echoesGameplay.jpeg
     teaser: /assets/images/echoesTeaser.jpeg
@@ -15,8 +15,12 @@ header:
     <a href="/assets/images/echoesGameplay3.jpeg"><img src="/assets/images/echoesGameplay3.jpeg"></a>
 </figure>
 
+<p style="text-align: center;">
+    <a href="https://lukecarter.itch.io/echoes-of-the-past" class="btn btn--primary equal-width">Play the Game!</a>
+</p>
+
 # Summary
-> Echoes of the Past is a story driven puzzle game set in a medieval environment. [Play It Here](https://lukecarter.itch.io/echoes-of-the-past)
+> Echoes of the Past is a story driven puzzle game set in a medieval environment.
 
 Echoes was a team project for the [Game Dev Group](https://www.linkedin.com/company/the-game-dev-group/) Bootcamp. This 5 person team included; a programmer, two 3d artists, a sound designer, and me. A writer was brought in during development to flesh out the backstory and write the narrative lines. My role was designer, and I programmed a few systems.
 

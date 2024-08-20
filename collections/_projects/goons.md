@@ -3,7 +3,7 @@ title: Goons
 categories:
     - Goons
 project-page-sort-id: 101
-excerpt: "A wacky, mobile, music making experiment, featuring a cast of British stereotypes. <i>Playable on Itch.io!</i>"
+excerpt: "A wacky, mobile, music making experiment, featuring a cast of British stereotypes."
 header:
     overlay_image: /assets/images/goonsGameplay1.png
     teaser: /assets/images/goonsTeaser.png
@@ -14,9 +14,13 @@ header:
     <a href="/assets/images/goonsGameplay1.png"><img src="/assets/images/goonsGameplay1.png"></a>
 </figure>
 
+<p style="text-align: center;">
+    <a href="https://admiralegg.itch.io/goons" class="btn btn--primary equal-width">Play the Game!</a>
+    <a href="https://github.com/AdmiralEgg/Goons.u" class="btn btn--primary equal-width">See the Code!</a>
+</p>
+
 # Summary
-> Goons is a wacky, mobile, music making experiment, featuring a cast of British stereotypes. 
-[Play It Here](https://admiralegg.itch.io/goons)
+> Goons is a wacky, mobile, music making experiment, featuring a cast of British stereotypes.
 
 Goons was a passion project, intended as a vehicle to explore; game feel, audio engineering, mobile game design, animation, and it was used as an opportunity to make music and sound for a game.
 
