@@ -1,27 +1,30 @@
 ---
-title: Cosy Builder Playability Refactor
+title: "Devlog: Animating on a Budget" 
 tags:
+    - Devlog
     - Design
-    - Systems
 categories:
-    - Cosy Builder
+    - Hidden Dogs
 ---
 Hellooooo dog fans! It's lovely to meet you all!
 
-I'm Chris, Designer and Programmer on Hidden Dogs: In The Dog House. 
+I'm Chris, Designer and Programmer on Hidden Dogs: In the Dog House. 
 
 Along our Hidden Dogs (HD) development journey I'll be writing a few devlogs, about whatever topic takes my fancy. Today, it's...
 
 ## Animation!
-Back in the day, when I was a little lad, my family would gather around a tiny TV and select from one of *four* different channels. Ahh, simpler times.
+Back int' day, when I was a lad, t' family would gather 'round TV and pick a channel. *Four*, we 'ad. 
 
-One of these channels had *Catchphrase*. I'd watch Catchphrase. I'd watch it *a lot*.
-https://youtu.be/ttcL6Dc5qkc?si=H-LELfGSRox3__VU&t=281
+Ahh, simpler times.
 
-Catchphrase had an animation style which I only know as 'Flipbook animation'.
-https://youtu.be/J2xrN5WQuxw?si=MlXoMr5Lml5cs4Ig
+One of these channels had *Catchphrase*. I'd watch Catchphrase. I'd watch Catchphrase *a lot*.
 
-If you look at our trailer, you'll notice the flipbook style, and if you're very observant you'll notice that we're... 
+[Catchphrase! I'm not sure it has aged well...](https://youtu.be/ttcL6Dc5qkc?si=H-LELfGSRox3__VU&t=281)
+
+Catchphrase had an animation style which I only know as '[Flipbook Animation](https://youtu.be/J2xrN5WQuxw?si=MlXoMr5Lml5cs4Ig)'.
+
+If you look at our 
+[trailer](https://store.steampowered.com/app/3363850/Hidden_Dogs_In_the_Dog_House_Demo/), you'll notice the flipbook style, and if you're very observant you'll notice that we're animating to the beat! 
 
 ## Animating to a Beat!
 
@@ -29,9 +32,9 @@ If you look at our trailer, you'll notice the flipbook style, and if you're very
 
 While music is playing, our music engine sends a signal to the game on every beat. Those signals are used to trigger; animations, sounds, movement... a whole bunch of things!
 
-I'd experimented with this in one of my prototypes, Goons. Where some lights in the level will flash in time with the music.
+I first tried this in a prototypes; Goons. In Goons, lights would flash, the crowd would jump, and the Goon would dance all in time to the music. 
 
-<img src="/assets/gifs/goons-dance-animation-blog.gif">
+<img src="/assets/gifs/goons-dance-animation-blog.gif" width=250>
 
 ## Why do it this way?
 It's cheap, and it's effective!
@@ -42,19 +45,19 @@ It's *effective*, because it's our job to keep you (the player) immersed in the 
 
 Ideas which are cheap and effective go a long way in Indie game development.
 
-## Stinky (level example)
+## Animation in a Level
 Here's an example of it in action,
 
-<img src="/assets/gifs/stinky-animation-blog.gif">
+<img src="/assets/gifs/stinky-animation-blog.gif" width=250>
 
 This animation is used for an indicator for our mutt, Stinky. 
 
 Stinky will appear in lots of levels, taking his flies and stink with him!
 
-## Tractor (map example)
+## Animations on the Map
 Here's another example, of a tractor ploughing a field on our world map. 
 
-<img src="/assets/gifs/tractor-animation-blog.gif">
+<img src="/assets/gifs/tractor-animation-blog.gif" width=250>
 
 The tractor moves in a flipbook style, and will move when it gets a beat trigger from our music track.
 
@@ -63,6 +66,11 @@ So, here are our core rules for animation,
 - Anything *in-world* will animate on the beat, using a flipbook style.
 
 *However*, not everything will be animated this way. Our user interface (UI) is the exception. We've breaking the rules for the UI, to make it a little smoother and cleaner, which ties into the look of our UI.
+
+## The Downside
+If the player turns the music off, the animation can feel erratic and random. 
+
+This is a problem when streamers with their own background tracks play the game.
 
 ## Finally
 So that's the trick to our animation! 
